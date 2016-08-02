@@ -9,7 +9,6 @@ Requirements
 	⁃	Should not require a web server, and should be able to run offline.
 	⁃	Match the design as close as possible.
 	⁃	All data exchanges should be in JSON format.
-	⁃	IMPORTANT: This must be completed using jQuery or vanilla Javascript - no other JS frameworks may be used.  Also, do not use any CSS frameworks (e.g. Bootstrap)
 
 Existing Data (JSON)
 
